@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RunWebDev
-- 👀 I’m interested in developing interactive website
+- 👀 I’m interested in developing interactive websites
 - 🌱 I’m currently learning front-end enginerring
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me ...
