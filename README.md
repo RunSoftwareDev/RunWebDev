@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @RunWebDev
-- 👀 I’m interested in developing interactive websites
-- 🌱 I’m currently learning front-end enginerring
-- 💞️ I’m looking to collaborate on nothing right now
-- 📫 How to reach me ...
+- 👀 I’m interested in code that can do fun stuff
+- 🌱 I’m currently learning front-end web development
 
 <!---
 RunWebDev/RunWebDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
